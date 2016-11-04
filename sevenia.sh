@@ -4,13 +4,13 @@
 #
 # BASH SEVENIA
 #
-# Sevenia's Bash template
+# Sevenia's bash template
 #
 # Name          : sevenia.sh
 # Location      : ./
 # Dependency    : which, whoami
 # Programmer(s) : SynSevenia
-# Last Edited   : 2016-11-05 02:48
+# Last Edited   : 2016-11-05 02:53
 #
 # ---+----1----+----2----+----3----+----4----+----5----+----6----+----7----+----8
 
