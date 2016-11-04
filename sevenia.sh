@@ -38,4 +38,6 @@ fi
 
 echo "Hello friend"
 
+exit $error_code
+
 # END
